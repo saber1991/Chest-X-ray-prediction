@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+
+# Datasets
+chest_xray_data/
+chest_xray/
+
+# Output files
+*.png
+*.pth
+*.log
+
+# IDE files
+.vscode/
+.idea/
