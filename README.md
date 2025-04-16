@@ -1,6 +1,6 @@
 **Project Overview**
 
-This project implements a deep learning-based system to classify chest X-ray images into four categories: ****COVID-19, Normal, Pneumonia**, and **Tuberculosis**. It leverages PyTorch for model training and evaluation, with advanced image preprocessing techniques and visualization tools.
+This project implements a deep learning-based system to classify chest X-ray images into four categories: **COVID-19, Normal, Pneumonia**, and **Tuberculosis**. It leverages PyTorch for model training and evaluation, with advanced image preprocessing techniques and visualization tools.
 
 **Key Features**
 
