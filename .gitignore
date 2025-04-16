@@ -13,8 +13,6 @@ chest_xray_data/
 chest_xray/
 
 # Output files
-*.png
-*.pth
 *.log
 
 # IDE files
