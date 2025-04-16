@@ -20,7 +20,8 @@ torch>=2.0.0 torchvision>=0.15.0 numpy>=1.21.0 pandas>=1.3.0 matplotlib>=3.4.0 s
 - Structure: Expects a directory chest_xray_data/ with subfolders train/, val/, and test/, each containing subdirectories for the four classes (COVID19, NORMAL, PNEUMONIA, TUBERCULOSIS).
 
 - Source: Chest X-Ray (Pneumonia,Covid-19,Tuberculosis)
-   https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19tuberculosis
+- https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19tuberculosis
+
 
 **Results**
 
